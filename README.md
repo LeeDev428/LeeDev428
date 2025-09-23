@@ -1,4 +1,13 @@
-# � Lee Torres - Tech Stack Portfolio
+# � Lee Torres
+<div align="center">
+  
+### 💡 "Code is poetry written in logic"
+
+*Building the future, one line of code at a time* ✨
+
+![Coding](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
+
+</div>
 
 <div align="center">
 
@@ -31,7 +40,6 @@
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![Svelte](https://img.shields.io/badge/Svelte-4A4A55?style=for-the-badge&logo=svelte&logoColor=FF3E00)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
@@ -84,7 +92,6 @@
 ![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white)
 ![Pusher](https://img.shields.io/badge/Pusher-300D4F?style=for-the-badge&logo=pusher&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 ![gRPC](https://img.shields.io/badge/gRPC-4285F4?style=for-the-badge&logo=grpc&logoColor=white)
 
 </div>
@@ -112,48 +119,6 @@
 
 ---
 
-## 📊 GitHub Analytics & Performance
-
-<div align="center">
-
-### 🚀 GitHub Statistics
-<img src="https://github-readme-stats.vercel.app/api?username=LeeDev428&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF" alt="Lee's GitHub Stats" height="200"/>
-
-### 💻 Most Used Languages
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeeDev428&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&hide=html,css" alt="Top Languages" height="200"/>
-
-### 🔥 GitHub Streak
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=LeeDev428&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF6B6B&currStreakLabel=C9D1D9" alt="GitHub Streak" height="200"/>
-
-### 📈 Contribution Graph
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=LeeDev428&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=C9D1D9" alt="GitHub Activity Graph"/>
-
-### 🏆 GitHub Profile Trophy
-<img src="https://github-profile-trophy.vercel.app/?username=LeeDev428&theme=tokyonight&no-frame=true&row=1&column=6&margin-h=10&margin-w=10" alt="GitHub Trophies"/>
-
-</div>
-
----
-
-## � Professional Experience & Projects
-
-<div align="center">
-
-### 🎯 Development Focus Areas
-| **Full-Stack Development** | **Mobile Applications** | **System Architecture** |
-|:-------------------------:|:-----------------------:|:-----------------------:|
-| 🌐 Modern Web Apps       | 📱 Cross-platform Apps | 🏗️ Scalable Systems   |
-| ⚡ Performance Optimization | 🔧 Native Features      | 🔄 Microservices      |
-| 🎨 UI/UX Implementation   | 📊 App Analytics        | 📡 API Development     |
-
-### 📈 Key Metrics
-![Projects](https://img.shields.io/badge/Projects_Completed-50+-success?style=for-the-badge&logo=github)
-![Experience](https://img.shields.io/badge/Years_of_Experience-3+-blue?style=for-the-badge&logo=calendar)
-![Technologies](https://img.shields.io/badge/Technologies_Mastered-40+-orange?style=for-the-badge&logo=stack-overflow)
-
-</div>
-
----
 
 ## 🤝 Let's Connect & Collaborate
 
@@ -168,14 +133,4 @@
 
 ---
 
-<div align="center">
-  
-### 💡 "Code is poetry written in logic"
 
-*Building the future, one line of code at a time* ✨
-
-![Coding](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
-
-**Made with ❤️ by Lee Torres**
-
-</div>
