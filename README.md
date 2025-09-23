@@ -1,11 +1,9 @@
-# � Lee Torres
+# Lee Torres
 <div align="center">
   
 ### 💡 "Code is poetry written in logic"
 
 *Building the future, one line of code at a time* ✨
-
-![Coding](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
 
 </div>
 
@@ -103,7 +101,6 @@
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 ![Hostinger](https://img.shields.io/badge/Hostinger-673DE6?style=for-the-badge&logo=hostinger&logoColor=white)
 ![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)
-![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
 
 </div>
 
@@ -120,7 +117,7 @@
 ---
 
 
-## 🤝 Let's Connect & Collaborate
+
 
 <div align="center">
 
