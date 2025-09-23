@@ -26,7 +26,7 @@
 
 ---
 
-   ## 🛠️ Tech Stack
+    ## 🛠️ Tech Stack
 
 <div align="center">
 
@@ -61,7 +61,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dart/dart-original.svg" height="60" width="60" alt="Dart" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vite/vite-original.svg" height="60" width="60" alt="Vite" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/webpack/webpack-original.svg" height="60" width="60" alt="Webpack" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/socketio/sock       etio-original.svg" height="60" width="60" alt="Socket.io" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/socketio/socketio-original.svg" height="60" width="60" alt="Socket.io" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vercel/vercel-original.svg" height="60" width="60" alt="Vercel" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" height="60" width="60" alt="Git" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" height="60" width="60" alt="GitHub" />
@@ -69,3 +69,4 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" height="60" width="60" alt="Postman" />
 
 </div>   
+
