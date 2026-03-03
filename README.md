@@ -3,7 +3,7 @@
   
 ### 💡 "Code is poetry written in logic"
 
-*Building the future, one line of code at a time* ✨
+*Building the future, one line of code at a time* 
 
 </div>
 
