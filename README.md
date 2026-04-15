@@ -15,18 +15,18 @@
 
 </div>
 
-## 🚀 About Me
+## ℹ️ About Me
 
-> **Aspiring Software Engineer** passionate about creating innovative solutions and bringing ideas to life through code. 
+> Software Engineer specializing in building scalable, high-performance applications and end-to-end systems. Experienced in full-stack development, with a strong focus on clean architecture, maintainable code, and efficient problem-solving.
 
-- 💡 **Philosophy**: Always learning, always building, always improving
-- 🌱 **Currently**: Exploring full-stack development with modern frameworks
-- 🎯 **Goal**: Building scalable applications that make a difference
-- 📍 **Location**: Calauan, Laguna, Philippines
+- Driven by continuous learning and execution—turning complex ideas into reliable, production-ready solutions.
+- Focus: Full-stack development, system design, and performance optimization
+- Mission: To engineer impactful software that delivers real value and scales with real-world demands
+- Calauan, Laguna, Philippines
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Technology Ecosystem
 
 <div align="center">
 
