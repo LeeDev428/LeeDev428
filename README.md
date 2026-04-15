@@ -30,16 +30,16 @@
 
 <div align="center">
 
-### Frontend
+### 
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vue,svelte,tailwind,bootstrap,vite,webpack" alt="Frontend Stack" />
 
-### Backend
+### 
 <img src="https://skillicons.dev/icons?i=nodejs,express,php,laravel,symfony,python,django,java,dotnet" alt="Backend Stack" />
 
-### Database and Cloud
+### 
 <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,firebase,redis,docker,vercel" alt="Database and Cloud Stack" />
 
-### Mobile and Developer Tools
+### 
 <img src="https://skillicons.dev/icons?i=flutter,dart,git,github,vscode,postman" alt="Mobile and Developer Tools" />
 
 </div>
