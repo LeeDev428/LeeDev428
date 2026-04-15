@@ -1,9 +1,9 @@
 # Lee Torres
 <div align="center">
   
-### 💡 "Engineering the future through scalable and purposeful systems" 💡
+### 💡 "Code is poetry written in logic" 💡
 
-*Building the future, one line of code at a time* 
+*Engineering the future, one line of code at a time* 
 
 </div>
 
