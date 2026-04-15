@@ -1,7 +1,7 @@
 # Lee Torres
 <div align="center">
   
-### 💡 "Code is poetry written in logic"
+### 💡 "Engineering the future through scalable and purposeful software"
 
 *Building the future, one line of code at a time* 
 
@@ -17,7 +17,7 @@
 
 ## ℹ️ About Me
 
-> Software Engineer specializing in building scalable, high-performance applications and end-to-end systems. Experienced in full-stack development, with a strong focus on clean architecture, maintainable code, and efficient problem-solving.
+- Software Engineer specializing in building scalable, high-performance applications and end-to-end systems. Experienced in full-stack development, with a strong focus on clean architecture, maintainable code, and efficient problem-solving.
 
 - Driven by continuous learning and execution—turning complex ideas into reliable, production-ready solutions.
 - Focus: Full-stack development, system design, and performance optimization
