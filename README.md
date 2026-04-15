@@ -1,7 +1,7 @@
 # Lee Torres
 <div align="center">
   
-### 💡 "Engineering the future through scalable and purposeful software"
+### 💡 "Engineering the future through scalable and purposeful systems"
 
 *Building the future, one line of code at a time* 
 
