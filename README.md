@@ -1,7 +1,7 @@
 # Lee Torres
 <div align="center">
   
-### 💡 "Engineering the future through scalable and purposeful systems"
+### 💡 "Engineering the future through scalable and purposeful systems" 💡
 
 *Building the future, one line of code at a time* 
 
@@ -19,7 +19,7 @@
 
 - Software Engineer specializing in building scalable, high-performance applications and end-to-end systems. Experienced in full-stack development, with a strong focus on clean architecture, maintainable code, and efficient problem-solving.
 
-- Driven by continuous learning and execution—turning complex ideas into reliable, production-ready solutions.
+- Driven by continuous learning and execution turning complex ideas into reliable, production-ready solutions.
 - Focus: Full-stack development, system design, and performance optimization
 - Mission: To engineer impactful software that delivers real value and scales with real-world demands
 - Calauan, Laguna, Philippines
